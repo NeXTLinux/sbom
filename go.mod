@@ -34,7 +34,7 @@ require (
 	github.com/nextlinux/go-version v1.2.1
 	github.com/nextlinux/gologger v0.0.0-20230422172100-0f5bbbc4c752
 	github.com/nextlinux/packageurl-go v0.1.0
-	github.com/nextlinux/stereoscope v0.0.0-20230423100046-6356a276e976
+	github.com/nextlinux/stereoscope 293e5dee5d55
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/pelletier/go-toml v1.9.5
