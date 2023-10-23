@@ -32,7 +32,7 @@ require (
 	github.com/nextlinux/go-macholibre v0.0.0-20230428025715-583cee012919
 	github.com/nextlinux/go-testutils v0.0.0-20230423054508-482fff308e0e
 	github.com/nextlinux/go-version v1.2.1
-	github.com/nextlinux/gologger v0.0.0-20230422172100-0f5bbbc4c752
+	github.com/nextlinux/gologger ac1947b125fb
 	github.com/nextlinux/packageurl-go v0.1.0
 	github.com/nextlinux/stereoscope v0.0.0-20230423100046-6356a276e976
 	github.com/olekukonko/tablewriter v0.0.5
