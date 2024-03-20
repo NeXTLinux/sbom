@@ -9,7 +9,7 @@ require (
 	github.com/adrg/xdg v0.4.0
 	github.com/bmatcuk/doublestar/v4 v4.6.0
 	github.com/deitch/magic v0.0.0-20230404182410-1ff89d7342da
-	github.com/docker/docker v23.0.5+incompatible
+	github.com/docker/docker v24.0.9+incompatible
 	github.com/dustin/go-humanize v1.0.1
 	github.com/facebookincubator/nvdtools v0.1.5
 	github.com/go-git/go-billy/v5 v5.4.1
